@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ Emulate\ a\ deck\ of\ cards\r\n\r\n\ @author\ Mr.\ Jaffe\r\n\ @version\ 2022-10-19\r\n
+comment1.params=
+comment1.target=Deck()
+comment1.text=\r\n\ Deck\ constructor\:\ Create\ an\ empty\ deck\ of\ cards\r\n
+comment2.params=
+comment2.target=void\ initializeNewDeck()
+comment3.params=
+comment3.target=int\ getDeckSize()
+comment3.text=\r\n\ Get\ the\ number\ of\ cards\ in\ the\ deck\r\n\ \r\n\ @returns\ Number\ of\ cards\ in\ the\ deck\r\n
+comment4.params=
+comment4.target=void\ shuffle()
+comment4.text=\r\n\ Shuffles\ the\ cards\ in\ the\ deck\r\n
+comment5.params=
+comment5.target=Deck[]\ dealDeck()
+comment5.text=\r\n\ Deal\ all\ the\ cards\ in\ the\ deck\ to\ make\ two\ new\ decks\ of\ cards\r\n\ \r\n\ @returns\ Deck\ array\ where\ index\ 0\ is\ the\ first\ deck\ and\ index\ 1\ is\ the\ second\ deck\r\n
+comment6.params=
+comment6.target=Card\ dealCardFromDeck()
+comment6.text=\r\n\ Deal\ the\ top\ card\ of\ the\ deck\ and\ remove\ it\ from\ the\ deck\r\n\ @returns\ The\ top\ card\ of\ the\ deck\ (at\ cards\ index\ 0)\r\n
+comment7.params=cardToAdd
+comment7.target=void\ addCardToDeck(Card)
+comment7.text=\r\n\ Adds\ the\ provided\ card\ to\ the\ deck\r\n\ @param\ cardToAdd\:\ Card\ to\ add\ to\ this\ deck\r\n
+numComments=8

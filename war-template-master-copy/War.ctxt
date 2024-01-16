@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=War
+comment0.text=\r\n\ War\ game\ class\r\n\r\n\ @author\ Mr.\ Jaffe\r\n\ @version\ 2022-10-19\r\n
+comment1.params=
+comment1.target=War()
+comment1.text=\r\n\ Constructor\ for\ the\ game\r\n\ Include\ your\ initialization\ here\ --\ card\ decks,\ shuffling,\ etc\r\n\ Run\ the\ event\ loop\ after\ you've\ done\ the\ initializations\r\n
+comment2.params=
+comment2.target=void\ runEventLoop()
+comment2.text=\r\n\ This\ is\ the\ game's\ event\ loop.\ The\ code\ in\ here\ should\ come\r\n\ from\ the\ War\ flowchart\ you\ created\ for\ this\ game\r\n
+comment3.params=deck
+comment3.target=boolean\ isDeckEmpty(Deck)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ The\ main\ method\ is\ called\ when\ Java\ starts\ your\ program\r\n
+numComments=5
